@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6{color:#454545;font-weight:600;line-height:1.2;margin:0 0 10px}
 
 /* -- Header Wrap -- */
 #header-wrap{position:relative;}
-#header-wrap2 {background:url(https://lh3.googleusercontent.com/fx0Vd-W5z2mfkHAMHLkGGbJq1MD6hfpX4YKSxnZeLF1I-04pt7yRS3Ff6dENRna2jfCyjhISLQrPmrqHo96ygyvb1x2RJoqghlO--MBOBj8YHxwXccvxl9dHTPs-4ddlUV8cMnWemjY_1wMd4SbNcsRSSer9y7bryhYqVGUsIn_WLFRyYfrSvW_uMC0IpQpwXGf8_nBRKH_QshUCMQP1gfV_PH00x-OG1eLHBnMU4ayXXfqpu8sWPKkAZIyzCEb4tPS2IFyb3QAT1PHQ8VfhbrjeN2g90Dl__BuKiY1OPw4OkTA0jo1jTosqKfLNsult3DcX43n9_Wssgoad2FsoMemR-RbFQOQFOg16cZXvG29cc97h7m7bcVqa856AAbRNqx3XaWKINwxtGUheKK6LMrqF2yhYd1ViYi1_DxGb2_52SAovzjo-xoXdDCPc1RZ0mJ6ZIApf9JNG5yhq7POi69SEB5-dzitMpyw0K1L_VjGx3F5nRvwe46Dt9RDcDcUDf8zbt_NnSVReyPNBiAURUoQR0sz0hS769WbC1lEGGCjNLyA0n4lE6crMi1kW0lqJz-1TYSYI7JjqNTsnxZw191LigdlyAH-0QDZV70LmWQXSZenC7QL8=w1200-h200-no&)no-repeat;width:100%;max-width:1200px;height:200px;margin:0 auto;padding:0;overflow:hidden;word-wrap:break-word;}
+#header-wrap2 {background:url(https://lh3.googleusercontent.com/fx0Vd-W5z2mfkHAMHLkGGbJq1MD6hfpX4YKSxnZeLF1I-04pt7yRS3Ff6dENRna2jfCyjhISLQrPmrqHo96ygyvb1x2RJoqghlO--MBOBj8YHxwXccvxl9dHTPs-4ddlUV8cMnWemjY_1wMd4SbNcsRSSer9y7bryhYqVGUsIn_WLFRyYfrSvW_uMC0IpQpwXGf8_nBRKH_QshUCMQP1gfV_PH00x-OG1eLHBnMU4ayXXfqpu8sWPKkAZIyzCEb4tPS2IFyb3QAT1PHQ8VfhbrjeN2g90Dl__BuKiY1OPw4OkTA0jo1jTosqKfLNsult3DcX43n9_Wssgoad2FsoMemR-RbFQOQFOg16cZXvG29cc97h7m7bcVqa856AAbRNqx3XaWKINwxtGUheKK6LMrqF2yhYd1ViYi1_DxGb2_52SAovzjo-xoXdDCPc1RZ0mJ6ZIApf9JNG5yhq7POi69SEB5-dzitMpyw0K1L_VjGx3F5nRvwe46Dt9RDcDcUDf8zbt_NnSVReyPNBiAURUoQR0sz0hS769WbC1lEGGCjNLyA0n4lE6crMi1kW0lqJz-1TYSYI7JjqNTsnxZw191LigdlyAH-0QDZV70LmWQXSZenC7QL8=w1200-h200-no)no-repeat;width:100%;max-width:1200px;height:200px;margin:0 auto;padding:0;overflow:hidden;word-wrap:break-word;}
 #header-wrapper {margin:0 auto;padding:10px 0;width:100%;float:left;position:relative;}
 #Header1{float:left;padding:0;width:100%;max-width:100%}
 #header-wrapper h1.title,#header-wrapper h2.title {color:#454545;font-size:350%;font-family:Fredericka the Great;text-align:center;line-height:1.4em;margin:50px auto;font-weight:normal;text-transform:capitalize;}
@@ -92,7 +92,7 @@ h1,h2,h3,h4,h5,h6{color:#454545;font-weight:600;line-height:1.2;margin:0 0 10px}
 .main .widget {margin:0;padding:0;}
 .date-header {display: none !important;}
 .post{line-height:1.625;padding:20px}
-.post-body {margin:0;line-height:1.6em;}
+.post-body {margin:0;line-height:1.6em;text-justify: auto}
 .post-body img, .post-body video, .post-body object {max-width:100%;height:auto;}
 .separator a{margin-left:0px!important;margin-right:0px!important;}
 .post blockquote{position: relative;padding: 10px;font-weight: 500;border: 1px solid #ddd;background: #F9f9f9;}
