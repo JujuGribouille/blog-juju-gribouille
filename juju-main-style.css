@@ -46,8 +46,7 @@ strong,b{font-weight:bold;}
 
 /* --------------------- */
 /* -- Layout Template -- */
-.fa{margin-right:5px;}
-body{background:#4787ed url(https://lh6.googleusercontent.com/-C4Cft9bXcLw/U8a5HOdbPHI/AAAAAAAAD7k/0EwXTB-g4Oo/s2048/pageglare.png) no-repeat fixed;color:#5a5a5a;font-family:Open Sans;font-size:16px;font-weight:500;line-height:1.625;margin:0;padding:0;}
+body{background:#4787ed url('https://lh6.googleusercontent.com/-C4Cft9bXcLw/U8a5HOdbPHI/AAAAAAAAD7k/0EwXTB-g4Oo/s2048/pageglare.png') no-repeat fixed;color:#5a5a5a;font-family:Open Sans;font-size:16px;font-weight:500;line-height:1.625;margin:0;padding:0;}
 h1,h2,h3,h4,h5,h6{color:#454545;font-weight:600;line-height:1.2;margin:0 0 10px}
 .CSS_LIGHTBOX {z-index:999999!important;}
 .CSS_LIGHTBOX_BG_MASK_TRANSPARENT {opacity:.95!important;}
@@ -65,7 +64,7 @@ h1,h2,h3,h4,h5,h6{color:#454545;font-weight:600;line-height:1.2;margin:0 0 10px}
 
 /* -- Header Wrap -- */
 #header-wrap{position:relative;}
-#header-wrap2 {background:url(https://lh3.googleusercontent.com/fx0Vd-W5z2mfkHAMHLkGGbJq1MD6hfpX4YKSxnZeLF1I-04pt7yRS3Ff6dENRna2jfCyjhISLQrPmrqHo96ygyvb1x2RJoqghlO--MBOBj8YHxwXccvxl9dHTPs-4ddlUV8cMnWemjY_1wMd4SbNcsRSSer9y7bryhYqVGUsIn_WLFRyYfrSvW_uMC0IpQpwXGf8_nBRKH_QshUCMQP1gfV_PH00x-OG1eLHBnMU4ayXXfqpu8sWPKkAZIyzCEb4tPS2IFyb3QAT1PHQ8VfhbrjeN2g90Dl__BuKiY1OPw4OkTA0jo1jTosqKfLNsult3DcX43n9_Wssgoad2FsoMemR-RbFQOQFOg16cZXvG29cc97h7m7bcVqa856AAbRNqx3XaWKINwxtGUheKK6LMrqF2yhYd1ViYi1_DxGb2_52SAovzjo-xoXdDCPc1RZ0mJ6ZIApf9JNG5yhq7POi69SEB5-dzitMpyw0K1L_VjGx3F5nRvwe46Dt9RDcDcUDf8zbt_NnSVReyPNBiAURUoQR0sz0hS769WbC1lEGGCjNLyA0n4lE6crMi1kW0lqJz-1TYSYI7JjqNTsnxZw191LigdlyAH-0QDZV70LmWQXSZenC7QL8=w1200-h200-no)no-repeat;width:100%;max-width:1200px;height:200px;margin:0 auto;padding:0;overflow:hidden;word-wrap:break-word;}
+#header-wrap2 {background:url('https://lh3.googleusercontent.com/iki9sq52pAi5BwiL8a51JPp3zB_7t6-w2FSM2rZYk6OYekH1UxY1MsLU7dBFTUjY9c7F4ygTluqyaT4eWdDhSZqRYOIKTJ41b5om9x0UZA-3IENWNDygreDOJSoGz_RKvOXMn5ULEfRKtDIMmb766vEaKvm15UF8PMT0YQ5jubuuiJt6roqhevJopnSjhXHvkPsypbLKzf6WvO7LvAh_JEMPJBXJhLoEa9vAfEZaIOS8e1vcxn0c1lqUiL_G5XxPvyR-hEtMFotGWJINybJMFU5Jqv-dl448Cpykm-xwC6w4gZJWim6Lh07fwVW87FJi711zDMgZt7FMMm1lF6TNSc2Be8adcZRxkhW0PRjE8cc70qBgeKo3VKAZVd0fyhCkgUwO7wKVPqO0CO_AalC-etca7Q1c2YR5JnMTa7fOPMDBzq4qbczUvumJytW4HblCRDn7v-WDFzOtGmyAITmDtGeZiG8N6mrd8hfOgDuNwyvgDZqAtCzeQwkxDvLtoP6xc5ZEgHajPh804dibRHmeDZQ3gBnHvdZ7z0vXhu4NHKmfkAOQqacqm8aw2OdvMeURhS4qEogbfwDdl8Fqz6lyRRIBGpTAuZQrw6dRzRL-QAKEM4Cwdsjm3D_diylX3sBXiTZScEDfAUjwiIJ97p-tE2dZFDWZQy4=w1200-h200-no')no-repeat;width:100%;max-width:1200px;height:200px;margin:0 auto;padding:0;overflow:hidden;word-wrap:break-word;}
 #header-wrapper {margin:0 auto;padding:10px 0;width:100%;float:left;position:relative;}
 #Header1{float:left;padding:0;width:100%;max-width:100%}
 #header-wrapper h1.title,#header-wrapper h2.title {color:#454545;font-size:350%;font-family:Fredericka the Great;text-align:center;line-height:1.4em;margin:50px auto;font-weight:normal;text-transform:capitalize;}
@@ -92,7 +91,7 @@ h1,h2,h3,h4,h5,h6{color:#454545;font-weight:600;line-height:1.2;margin:0 0 10px}
 .main .widget {margin:0;padding:0;}
 .date-header {display: none !important;}
 .post{line-height:1.625;padding:20px}
-.post-body {margin:0;line-height:1.6em;text-align: justify;}
+.post-body {margin:0;line-height:1.6em;text-justify: auto}
 .post-body img, .post-body video, .post-body object {max-width:100%;height:auto;}
 .separator a{margin-left:0px!important;margin-right:0px!important;}
 .post blockquote{position: relative;padding: 10px;font-weight: 500;border: 1px solid #ddd;background: #F9f9f9;}
@@ -130,7 +129,7 @@ li.recent-box img:first-child {max-height: 100%!important;}
 .artpreview {margin-bottom: -10px;position: relative;margin-top: 10px;padding: 0px 15px;}
 .artpreview h3 {    text-transform: uppercase;font-size: 15px;padding: 8px 0px;font-weight: bold;text-shadow: none;color: #3a3a3a;border-bottom: 3px solid #ddd;}
 .artpreview h3 span{border-bottom: 3px solid #4787ed;top: 0;padding: 0px 0px 7px 0px;width: 50px;position: relative;}
-.artpreview h3:after{float:right;font-size:16px;margin:0px 5px;content: &quot;\f0a4&quot;; font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;}
+.artpreview h3:after{float:right;font-size:16px;margin:0px 5px;content: &quot;\f0a4&quot;; font-family: 'Font Awesome 5 Free';font-style: normal;font-weight: normal;text-decoration: inherit;}
 
 /* -- DL box -- */
 .dlbox{background-color: whitesmoke; border: 1px solid #e5e5e5; float: left; font-family: Arial, Tahoma, 'Lucida Sans Unicode', 'Lucida Grande'; font-size: 14px; line-height: 12px; margin: 0px 0px 20px; outline: 0px; overflow: hidden; padding: 20px; vertical-align: baseline; width: auto;}
@@ -139,14 +138,14 @@ li.recent-box img:first-child {max-height: 100%!important;}
 .juduldl span{color:#fff;}
 .animedl a{color:blue !important;}
 .animedl a:hover{color:blue !important;}
-.juduldl:before{content: &quot;\f019&quot;;font-family: Fontawesome;color: #fff;font-size: 13px;font-weight: 400;}
+.juduldl:before{content: &quot;\f019&quot;;font-family: 'Font Awesome 5 Free';color: #fff;font-size: 13px;font-weight: 400;}
 
 /* -- Sidebar -- */
 #sidebar-wrapper{float:right;width:31%;}
 .sidebar h2,.sidebar h3,.sidebar h4,.sidebar-two h2,.sidebar-two h3,.sidebar-two h4{position: relative;background: #f7f7f7;font-size: 14px;color: #888;text-align: center;margin: 0;text-transform: uppercase;padding: 10px 0px;font-weight: 600;font-family: Titillium Web;border: 1px solid #ddd;border-bottom: 0;}
-.sidebar h2:before,.sidebar h3:before,.sidebar h4:before,.sidebar-two h2:before,.sidebar-two h3:before,.sidebar-two h4:before{font-family:fontawesome;content:&quot;\f0e5&quot;;margin-right:10px}
+.sidebar h2:before,.sidebar h3:before,.sidebar h4:before,.sidebar-two h2:before,.sidebar-two h3:before,.sidebar-two h4:before{font-family: 'Font Awesome 5 Free';content:&quot;\f0e5&quot;;margin-right:10px}
 /*
-.sidebar h2:after,.sidebar h3:after,.sidebar h4:after,.sidebar-two h2:after,.sidebar-two h3:after,.sidebar-two h4:after{font-family:fontawesome;content:&quot;\f0e5&quot;;margin-left:10px}
+.sidebar h2:after,.sidebar h3:after,.sidebar h4:after,.sidebar-two h2:after,.sidebar-two h3:after,.sidebar-two h4:after{font-family: 'Font Awesome 5 Free';content:&quot;\f0e5&quot;;margin-left:10px}
 */
 .widget-content {margin:0;overflow:hidden;}
 #sidebar-wrapper .widget-content,#sidebar-two .widget-content{overflow:hidden;display:block;position:relative;margin:0;padding:10px;border-top:1px solid #ddd}
@@ -209,7 +208,7 @@ li.recent-box img:first-child {max-height: 100%!important;}
 #search{float:right;margin-top:3px;margin-right:20px;}
 .search_input{width: 290px;color: #888;padding: 8.5px 7px;background-color: #f3f3f3;border: 1px solid #ddd;font-size: 12px;font-weight: 500;font-family: Open Sans;}
 .search_submit{border: 0;color: #fff;padding: 8.3px 10px;font-size: 11px;cursor: pointer;margin-top: 0px;float: right;margin-right: -3px;}
-.search_submit:before{ content: &quot;\f002&quot;; font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;font-size: 15px;width: 25px;height: 25px;line-height: 17px;color: #FFF;}
+.search_submit:before{ content: &quot;\f002&quot;; font-family: 'Font Awesome 5 Free';font-style: normal;font-weight: normal;text-decoration: inherit;font-size: 15px;width: 25px;height: 25px;line-height: 17px;color: #FFF;}
 
 /* -- Page Navigation -- */
 #blog-pager-newer-link{float:left;}
@@ -231,7 +230,7 @@ li.recent-box img:first-child {max-height: 100%!important;}
 #footer-sgwidget{overflow:hidden;margin:auto;}
 #footer-sgwidget .footer-widget {width:30.2%;float:left;margin-left:20px;padding-top:10px;padding-bottom:15px;}
 #footer-wrapper h2,#footer-wrapper h3{color:#eee;font-size:16px;font-family:'Roboto',sans-serif;font-weight:400;margin-bottom:20px;border-bottom:2px solid #4a4a4a;padding:15px 0;position:relative;line-height:1;text-align:left}
-#footer-wrapper h2:before,#footer-wrapper h3:before{font-family:fontawesome;content:&quot;\f0c9 &quot;;margin-right:10px}
+#footer-wrapper h2:before,#footer-wrapper h3:before{font-family: 'Font Awesome 5 Free';content:&quot;\f0c9 &quot;;margin-right:10px}
 #footer-wrapper h2:after,#footer-wrapper h3:after{content:&quot;&quot;;position:absolute;bottom:-2px;left:0;width:110px;height:2px;background:#4787ed}
 #footer-wrapper .widget-content {text-align:left;margin:20px 0 15px;}
 #footer-wrapper .widget-content li {margin-left:-14px;}
@@ -257,7 +256,7 @@ font-weight:400;font-family:'Open Sans',Helvetica;color:#eee;margin:0}
 .main-nav ul {text-align:center;}
 .main-nav ul {display:none;height:auto;}
 .main-nav a#pull{background-color:transparent;color:#fff;display:inline-block;font-size:14px;font-weight:700;padding:5px 20px;position:relative;text-align:left;text-transform:uppercase;width:100%;line-height:40px}
-.main-nav a#pull:after {content:&quot;\f0c9&quot;;font-family:FontAwesome;
+.main-nav a#pull:after {content:&quot;\f0c9&quot;;font-family: 'Font Awesome 5 Free';
 font-style:normal;font-weight:normal;text-decoration:none;font-size:26px;color:#fff;
 display:inline-block;position:absolute;right:20px;line-height:40px;}
 .main-nav li {display:block;width:100%;text-align:left;line-height:30px;height:30px;}
