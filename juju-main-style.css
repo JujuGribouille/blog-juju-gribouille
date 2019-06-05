@@ -143,9 +143,9 @@ li.recent-box img:first-child {max-height: 100%!important;}
 /* -- Sidebar -- */
 #sidebar-wrapper{float:right;width:31%;}
 .sidebar h2,.sidebar h3,.sidebar h4,.sidebar-two h2,.sidebar-two h3,.sidebar-two h4{position: relative;background: #f7f7f7;font-size: 14px;color: #888;text-align: center;margin: 0;text-transform: uppercase;padding: 10px 0px;font-weight: 600;font-family: Titillium Web;border: 1px solid #ddd;border-bottom: 0;}
-.sidebar h2:before,.sidebar h3:before,.sidebar h4:before,.sidebar-two h2:before,.sidebar-two h3:before,.sidebar-two h4:before{font-family: 'Font Awesome 5 Free';content:&quot;\f0e5&quot;;margin-right:10px}
+.sidebar h2:before,.sidebar h3:before,.sidebar h4:before,.sidebar-two h2:before,.sidebar-two h3:before,.sidebar-two h4:before{font-family: 'fontawesome';content:'\f0e5';margin-right:10px}
 /*
-.sidebar h2:after,.sidebar h3:after,.sidebar h4:after,.sidebar-two h2:after,.sidebar-two h3:after,.sidebar-two h4:after{font-family: 'Font Awesome 5 Free';content:&quot;\f0e5&quot;;margin-left:10px}
+.sidebar h2:after,.sidebar h3:after,.sidebar h4:after,.sidebar-two h2:after,.sidebar-two h3:after,.sidebar-two h4:after{font-family: 'Font Awesome 5 Free';content:'\f0e5';margin-left:10px}
 */
 .widget-content {margin:0;overflow:hidden;}
 #sidebar-wrapper .widget-content,#sidebar-two .widget-content{overflow:hidden;display:block;position:relative;margin:0;padding:10px;border-top:1px solid #ddd}
